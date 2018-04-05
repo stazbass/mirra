@@ -1,4 +1,4 @@
-package com.szclock.demo;
+package com.mirra.demo;
 
 import org.junit.After;
 import org.junit.Before;

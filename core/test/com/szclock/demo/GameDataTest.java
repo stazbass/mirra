@@ -1,6 +1,6 @@
-package com.szclock.demo;
+package com.mirra.demo;
 
-import com.szclock.demo.data.GameData;
+import com.mirra.demo.data.GameData;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
